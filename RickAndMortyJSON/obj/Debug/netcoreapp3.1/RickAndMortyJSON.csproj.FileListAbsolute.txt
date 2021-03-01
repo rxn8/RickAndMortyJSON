@@ -1,0 +1,5 @@
+C:\Users\Nathan Smith\source\repos\rxn8\RickAndMortyJSON\RickAndMortyJSON\obj\Debug\netcoreapp3.1\RickAndMortyJSON.csprojAssemblyReference.cache
+C:\Users\Nathan Smith\source\repos\rxn8\RickAndMortyJSON\RickAndMortyJSON\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Nathan Smith\source\repos\rxn8\RickAndMortyJSON\RickAndMortyJSON\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Nathan Smith\source\repos\rxn8\RickAndMortyJSON\RickAndMortyJSON\obj\Debug\netcoreapp3.1\RickAndMortyJSON_MarkupCompile.cache
+C:\Users\Nathan Smith\source\repos\rxn8\RickAndMortyJSON\RickAndMortyJSON\obj\Debug\netcoreapp3.1\RickAndMortyJSON_MarkupCompile.lref
