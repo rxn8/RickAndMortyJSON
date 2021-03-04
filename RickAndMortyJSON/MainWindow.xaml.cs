@@ -26,8 +26,6 @@ namespace RickAndMortyJSON
         {
             InitializeComponent();
 
-            //https://rickandmortyapi.com/api/character
-
             using (var client = new HttpClient())
             {
                 string jsonData = client.GetStringAsync("https://rickandmortyapi.com/api/character").Result;

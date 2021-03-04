@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "selysEsPubDIwniqMnahvn0kJ8dTy1EY2XotSguNWkAiv4VrTKdTpiy3ZX5knipAXRFiptUXTfmDkHRkb2EYPg==",
+  "dgSpecHash": "7qvQcw4PBJtZw8TIoM97XEHGzz6njCBlOEHu97QIUVNAFr23f3s+r1CXSuloRc3EtMPpl7u3j6H7qvQMvwHHgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nathan Smith\\source\\repos\\rxn8\\RickAndMortyJSON\\RickAndMortyJSON\\RickAndMortyJSON.csproj",
+  "projectFilePath": "C:\\Users\\natha\\Source\\Repos\\rxn8\\RickAndMortyJSON\\RickAndMortyJSON\\RickAndMortyJSON.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nathan Smith\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
-    "C:\\Users\\Nathan Smith\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Nathan Smith\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\natha\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
